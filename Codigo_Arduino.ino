@@ -1,6 +1,6 @@
 // Los keyvalues hay que ajustarlos mirando el valor de cada boton en el serial monitor
 
-int notes[] = {262,294,330,349,420,512};
+int notes[] = {262,294,330,349,391,440};
 
 void setup() {
   // put your setup code here, to run once:
