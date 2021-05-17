@@ -1,6 +1,6 @@
 En este repositorio se encuentran los códigos del Firmware y Software de el producto Recovery Key.
 
-FIRMWARE: fichero ArduinoCODE.ino
+<b>FIRMWARE: fichero ArduinoCODE.ino</b>
 
 El codigo esta escrito en Arduino Software y corresponde a la programación de la placa de Arduino, la cual debe estar conectada por cable al PC cuando se ejecute.
 Es preciso descargarse la IDE de Arduino y abrir el código .ino descargado. Con la placa de Arduino conectada, se compila y se sube el código.
